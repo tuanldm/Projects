@@ -1,0 +1,27 @@
+- Input:
+  + CSV:	
+    . Register_S32K144_GPIO:		C:\\Users\\Admins\\OneDrive\\Desktop\\FPT_Course_Practice_\\MCU\Program_Keil_C_\\BT_Overview\\Register_S32K144_GPIO.csv
+    . Register_S32K144_PORT:		C:\\Users\\Admins\\OneDrive\\Desktop\\FPT_Course_Practice_\\MCU\Program_Keil_C_\\BT_Overview\\Register_S32K144_PORT.csv
+    . Register_S32K144_PCC:		C:\\Users\\Admins\\OneDrive\\Desktop\\FPT_Course_Practice_\\MCU\Program_Keil_C_\\BT_Overview\\Register_S32K144_PCC.csv
+    . Register_S32K144_INTERUPT:	C:\\Users\\Admins\\OneDrive\\Desktop\\FPT_Course_Practice_\\MCU\Program_Keil_C_\\BT_Overview\\Register_S32K144_INTERUPT.csv
+    . Register_S32K144_LPIT:		C:\\Users\\Admins\\OneDrive\\Desktop\\FPT_Course_Practice_\\MCU\Program_Keil_C_\\BT_Overview\\Register_S32K144_LPIT.csv
+    . Register_S32K144_LPUART:		C:\\Users\\Admins\\OneDrive\\Desktop\\FPT_Course_Practice_\\MCU\Program_Keil_C_\\BT_Overview\\Register_S32K144_LPUART.csv
+    . Register_S32K144_LPUART:		C:\\Users\\Admins\\OneDrive\\Desktop\\FPT_Course_Practice_\\MCU\Program_Keil_C_\\BT_Overview\\Register_S32K144_LPSPI.csv
+
+  + Template:			
+    . Register_S32K144_GPIO:		C:\\Users\\Admins\\OneDrive\\Desktop\\FPT_Course_Practice_\\MCU\Program_Keil_C_\\BT_Overview\\Template_Register_S32K144_GPIO.txt
+    . Register_S32K144_PORT:		C:\\Users\\Admins\\OneDrive\\Desktop\\FPT_Course_Practice_\\MCU\Program_Keil_C_\\BT_Overview\\Template_Register_S32K144_PORT.txt
+    . Register_S32K144_PCC:		C:\\Users\\Admins\\OneDrive\\Desktop\\FPT_Course_Practice_\\MCU\Program_Keil_C_\\BT_Overview\\Template_Register_S32K144_PCC.txt
+    . Register_S32K144_INTERUPT:	C:\\Users\\Admins\\OneDrive\\Desktop\\FPT_Course_Practice_\\MCU\Program_Keil_C_\\BT_Overview\\Template_Register_S32K144_INTERUPT.txt
+    . Register_S32K144_LPIT:		C:\\Users\\Admins\\OneDrive\\Desktop\\FPT_Course_Practice_\\MCU\Program_Keil_C_\\BT_Overview\\Template_Register_S32K144_LPIT.txt
+    . Register_S32K144_LPUART:		C:\\Users\\Admins\\OneDrive\\Desktop\\FPT_Course_Practice_\\MCU\Program_Keil_C_\\BT_Overview\\Template_Register_S32K144_LPUART.txt
+    . Register_S32K144_LPUART:		C:\\Users\\Admins\\OneDrive\\Desktop\\FPT_Course_Practice_\\MCU\Program_Keil_C_\\BT_Overview\\Template_Register_S32K144_LPSPI.txt
+
+- Output:
+    . Register_S32K144_GPIO:		C:\\Users\\Admins\\OneDrive\\Desktop\\FPT_Course_Practice_\\MCU\Program_Keil_C_\\BT_Overview\\GPIO_Type.h
+    . Register_S32K144_PORT:		C:\\Users\\Admins\\OneDrive\\Desktop\\FPT_Course_Practice_\\MCU\Program_Keil_C_\\BT_Overview\\PORT_Type.h
+    . Register_S32K144_PCC:		C:\\Users\\Admins\\OneDrive\\Desktop\\FPT_Course_Practice_\\MCU\Program_Keil_C_\\BT_Overview\\PCC_Type.h
+    . Register_S32K144_INTERUPT:	C:\\Users\\Admins\\OneDrive\\Desktop\\FPT_Course_Practice_\\MCU\Program_Keil_C_\\BT_Overview\\INTERUPT_TYPE.h
+    . Register_S32K144_LPIT:		C:\\Users\\Admins\\OneDrive\\Desktop\\FPT_Course_Practice_\\MCU\Program_Keil_C_\\BT_Overview\\LPIT_TYPE.h
+    . Register_S32K144_LPUART:		C:\\Users\\Admins\\OneDrive\\Desktop\\FPT_Course_Practice_\\MCU\Program_Keil_C_\\BT_Overview\\LPUART_TYPE.h
+    . Register_S32K144_LPUART:		C:\\Users\\Admins\\OneDrive\\Desktop\\FPT_Course_Practice_\\MCU\Program_Keil_C_\\BT_Overview\\LPSPI_TYPE.h
